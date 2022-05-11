@@ -20,6 +20,7 @@ Plain Language Summaries:
 
 
 English
+
 Aim: Reef fishes are commonly recognized as sentinels of the ongoing tropicalization in biogeographic transition zones between temperate and tropical areas. Despite the reliance of these marine ectotherms on the benthos, the importance of benthic habitat has rarely been considered as a factor constraining fish distribution. Therefore, our study aims at examining the consequences of both temperature and benthic variations on the fish fauna and diagnosing potential sentinels of these environmental changes.
 Location: Taiwan
 Taxon: Teleostei (184 species)
