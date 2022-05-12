@@ -555,7 +555,7 @@ simul_sp <- Hmsc(Y=Y_sp_hmsc, XData = X,
                  XFormula = XFormula,
                  studyDesign = design,
                  ranLevels  = ranlevels,
-                 distr = "lognormal normal") 
+                 distr = "lognormal") 
 
 # run model
 thin = 100
@@ -842,11 +842,11 @@ plotweb(sortweb(cluster2.cha, sort.order="dec"),
 fish.ind.inf <- fish.ind.data
 fish.ind.inf <- fish.ind.inf[fish.ind.inf$Habitat!='Both',]
 fish.ind.inf$`p value` <- NULL
+fish.ind.inf$sp <- rownames(fish.ind.inf)
 fish.ind.inf <- melt(fish.ind.inf,id.vars = c( "sp",'Habitat'), variable.name='IndVal', value.name = "value")
 
 specialists <- ggplot(fish.ind.inf ,aes(x = IndVal, y =  sp, fill = Habitat))+
   geom_point(aes(size = value), alpha = 0.5, shape = 21) +
-  scale_fill_manual(values=rev(col))+ 
   labs( x= "", y = "")  +
   scale_y_discrete(limits = rev(fish.ind.inf$sp[1:58]))+
   theme_bw()
