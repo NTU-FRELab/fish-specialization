@@ -1,0 +1,32 @@
+Linetal_dataset_benthicmatrix
+Benthic matrix for the point data of 241 taxonomic groups in 120 transects
+
+Linetal_dataset_latitude
+Latitute and SST information for the 120 surveyed transects
+
+Linetal_dataset_fishtrait
+Fish trait description for the identified fish individuals
+
+Linetal_dataset_fishmatrix
+Fish matrix for the abundance of 184 species in 120 transects
+
+Linetal_dataset_Labridaematrix
+Labridae matrix for the abundance of 49 species in 120 transects
+
+Linetal_dataset_Pomacentridaematrix
+Pomacentridae matrix for the abundance of 32 species in 120 transects
+
+Linetal_dataset_Chaetodontidaematrix
+Chaetodontidae matrix for the abundance of 21 species in 120 transects
+
+Linetal_dataset_TWmap.shp
+.shp file for drawing the map of Taiwan
+
+Linetal_dataset_TWmap.shx
+.shx file for drawing the map of Taiwan
+
+Linetal_dataset_TWmap.dbf
+.dbf file for drawing the map of Taiwan
+
+Linetal_dataset_NOAA_DHW_monthly_1985-2019.nc
+1985-2019 Monthly SST data downloaded from NOAA ERDDAP server
