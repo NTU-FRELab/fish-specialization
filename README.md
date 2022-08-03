@@ -1,7 +1,7 @@
 # fish-specialization
-Data and script to replicate analyses in Lin et al. (Accepted). Knit Linetal2022_Analysis.Rmd. If used in full or in part, please cite the original publication:
+Data and script to replicate analyses in Lin et al. (2022). Knit Linetal2022_Analysis.Rmd. If used in full or in part, please cite the original publication:
 
-Lin YV, Hsiao WV, Chen, W-J, Denis V (In Press) Habitat change and its consequences on reef fish specialization in biogeographic transition zones. Journal of Biogeography. 
+Lin YV, Hsiao WV, Chen, W-J, Denis V (2022) Habitat change and its consequences on reef fish specialization in biogeographic transition zones. Journal of Biogeography 49:1549-1561. doi: 10.1111/jbi.14450
 
 All the data are also available on Dryad
 
